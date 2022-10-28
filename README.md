@@ -1,6 +1,6 @@
 ﻿# App de comentários com VueJS
 
- ### [Link de acesso](https://gblw1.github.io/Comments-App/)
+ ### [Link de acesso](https://gblw1.github.io/Comments-App-VueJS/)
 
  ---
 
